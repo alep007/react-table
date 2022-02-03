@@ -27,7 +27,7 @@ const Wrap = styled.div`
 			}
 			button {
 				padding: 10px 20px;
-				background-color: #f0ad4e;
+				background-color: #20a8d8;
 				color: white;
 				border: none;
 				border-radius: 3px;
