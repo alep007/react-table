@@ -9,7 +9,7 @@ const Wrap = styled.th`
 		position: relative;
 		text-align: center;
 		min-height: 80px;
-		background-color: #db3615;
+		background-color: #007bff;
 		color: #fff;
 		padding: 5px;
 		line-height: 25px;
